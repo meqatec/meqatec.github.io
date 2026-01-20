@@ -1,36 +1,20 @@
-# Meqatec SpA
+# Meqatec SpA – Portafolio Corporativo
 
-**Tecnologías limpias aplicadas a la ciencia de datos, salud y medio ambiente.**
+**Enfoque:** Tecnologías limpias aplicadas a ciencia de datos, salud y medio ambiente
 
-Bienvenido al portafolio profesional de **Máximo Quezada**.
-
----
-
-## 👤 Sobre mí
-
-Químico farmacéutico, especialista en ciencia de datos, con formación en oceanografía y fuerte interés en bioestadística y bioinformática aplicada.
-
-**Mi trabajo combina:**
-- Análisis de datos
-- Estadística aplicada
+## Expertise y Capacidades
+- Análisis de datos aplicado a salud y medio ambiente
+- Estadística aplicada y modelamiento científico
 - Programación en Python y R
-- Modelamiento y visualización
-- Enfoque científico y reproducible
+- Visualización de datos y reportes reproducibles
+- Desarrollo de soluciones basadas en ciencia de datos
 
----
+## Proyectos Destacados
+- Análisis exploratorio de pacientes con biomarcadores (clustering y visualización)
+- Próximos proyectos en machine learning y redes neuronales
+- Solo resultados o descripciones; sin mostrar código ni datos privados
+- Imágenes y gráficos exportables disponibles en assets/
 
-## 📂 Proyectos destacados
-
-> Solo resultados o descripciones, sin mostrar código ni datos privados.
-
-- **Análisis exploratorio de pacientes con biomarcadores** – Clustering y visualización  
-- Próximos proyectos en ML y redes neuronales  
-
-*(Imágenes y gráficos exportados pueden agregarse en `assets/`)*
-
----
-
-## 📫 Contacto
-
-🌐 https://www.meqatec.github.io
+## Contacto
+- 🌐 [Sitio web de Meqatec SpA](https://www.meqatec.github.io)
 
